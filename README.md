@@ -1,8 +1,12 @@
-# Hi, I'm Pradeepa S 👋
+<h1 align="center">Hi, I'm Pradeepa S 👋</h1>
+<h3 align="center">Python Backend Developer & GenAI Engineer | LLMs · RAG · Django · FastAPI · REST APIs</h3>
+<p align="center">3+ Years Experience &nbsp;|&nbsp; 🟢 Immediate Joiner &nbsp;|&nbsp; 📍 Erode, Tamil Nadu</p>
 
-**Python Backend Developer & GenAI Engineer | LLMs | RAG | Django | FastAPI | REST APIs | 3+ Years Experience**
-
-📍 Erode, Tamil Nadu
+<p align="center">
+  <a href="https://www.linkedin.com/in/pradeepa-sundaram-3a0140245"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://img.shields.io/badge/Naukri-4A90D9?style=for-the-badge&logo=naukri&logoColor=white" /></a>
+  <a href="mailto:pradeepasundaramnps@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -112,8 +116,3 @@ Graphormer · PyTorch · DGL · LightGBM · FastAPI · React.js · D3.js · Neo4
 
 - **M.Sc. Applied Psychology** — Bharathiyar University (2023)
 - **B.Sc. Computer Science** — Kongu Arts and Science College, Erode (2019)
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepa-sundaram-3a0140245)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepasundaramnps@gmail.com)
