@@ -64,13 +64,11 @@ Designed REST APIs, database schemas, and secure authentication (JWT) across ent
 
 Building an enterprise-grade RegTech platform for automated compliance and risk analysis.
 
-Designed a typed compliance knowledge graph (Graph RAG) enabling multi-hop reasoning across regulations, obligations, controls, risks, and assets.
-
-Built a hybrid dense-sparse retrieval pipeline (Pinecone + Elasticsearch) with RRF fusion and cross-encoder reranking.
-
-Implemented a multi-agent orchestration layer using LangGraph to automate regulatory gap analysis, risk scoring, and audit evidence tracing.
-
-Added a hallucination guard validating every AI-generated finding against the retrieved knowledge subgraph, plus human-in-the-loop approval workflows for CRITICAL/HIGH severity gaps.
+- Designed a typed compliance knowledge graph (Graph RAG) enabling multi-hop reasoning across regulations, obligations, controls, risks, and assets
+- Built a hybrid dense-sparse retrieval pipeline (Pinecone + Elasticsearch) with RRF fusion and cross-encoder reranking
+- Implemented a multi-agent orchestration layer using LangGraph to automate regulatory gap analysis, risk scoring, and audit evidence tracing
+- Added a hallucination guard validating every AI-generated finding against the retrieved knowledge subgraph
+- Built human-in-the-loop approval workflows for CRITICAL/HIGH severity gaps
 
 Tech: 
 Python · FastAPI · Django REST Framework · Neo4j · LangGraph · Pinecone · Elasticsearch.
@@ -79,11 +77,10 @@ Python · FastAPI · Django REST Framework · Neo4j · LangGraph · Pinecone · 
 
 Built a real-time influence-scoring and alerting platform for social media engagement metrics.
 
-Designed an influence-scoring engine calculating reach and engagement in real time.
-
-Implemented Redis Pub/Sub-based alerting for viral content and engagement spikes.
-
-Built an influencer identification module for partnership recommendations and a content scheduling automation feature that reduced manual posting effort by over 60%.
+- Designed an influence-scoring engine calculating reach and engagement in real time
+- Implemented Redis Pub/Sub-based alerting for viral content and engagement spikes
+- Built an influencer identification module for partnership recommendations
+- Automated content scheduling, reducing manual posting effort by over 60%
 
 Tech: 
 Python · Redis Pub/Sub · PostgreSQL · REST API Design · JWT.
@@ -92,11 +89,9 @@ Python · Redis Pub/Sub · PostgreSQL · REST API Design · JWT.
 
 Built a middleware integration hub syncing two analytics platforms in near real-time.
 
-Designed ETL pipelines and real-time sync via Redis Pub/Sub.
-
-Built a flexible schema-mapping system between product data models.
-
-Implemented centralized logging and monitoring for integration workflows.
+- Designed ETL pipelines and real-time sync via Redis Pub/Sub
+- Built a flexible schema-mapping system between product data models
+- Implemented centralized logging and monitoring for integration workflows
 
 Tech: 
 Python · ETL · Redis Pub/Sub · Data Mapping · Centralized Logging.
@@ -105,11 +100,10 @@ Python · ETL · Redis Pub/Sub · Data Mapping · Centralized Logging.
 
 Built an AI-driven system modeling a company's supply chain as a graph to predict supplier risk.
 
-Designed a graph construction pipeline encoding node features (capacity, reliability, cost volatility) and edge attributes (distance, transit time, disruption index).
-
-Trained a Graphormer-based model generating graph embeddings, classified via LightGBM into Low/Medium/High risk tiers.
-
-Built a FastAPI microservice and a React.js + D3.js dashboard for risk visualization and dependency alerts, dockerized with PostgreSQL + Neo4j storage and GPU training / CPU inference.
+- Designed a graph construction pipeline encoding node features (capacity, reliability, cost volatility) and edge attributes (distance, transit time, disruption index)
+- Trained a Graphormer-based model generating graph embeddings, classified via LightGBM into Low/Medium/High risk tiers
+- Built a FastAPI microservice and a React.js + D3.js dashboard for risk visualization and dependency alerts
+- Dockerized the pipeline with PostgreSQL + Neo4j storage, using GPU training / CPU inference
 
 Tech: 
 Graphormer · PyTorch · DGL · LightGBM · FastAPI · React.js · D3.js · Neo4j · PostgreSQL · Docker.
