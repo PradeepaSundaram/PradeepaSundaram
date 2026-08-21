@@ -116,3 +116,7 @@ Graphormer · PyTorch · DGL · LightGBM · FastAPI · React.js · D3.js · Neo4
 
 - **M.Sc. Applied Psychology** — Bharathiyar University (2023)
 - **B.Sc. Computer Science** — Kongu Arts and Science College, Erode (2019)
+
+## 🌐 Languages
+
+English (Limited Working) · Tamil (Full Professional)
